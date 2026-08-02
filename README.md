@@ -875,7 +875,7 @@ Attackers may claim to represent:
 
 # 🛡️ SECURITY TIP
 
-# 🛑 **STOP • VERIFY • NEVER SHARE SENSITIVE INFORMATION**
+# 🛑 **STOP  VERIFY  NEVER SHARE SENSITIVE INFORMATION**
 
 > **Never trust unsolicited text messages or phone calls requesting personal information, passwords, one time passwords (OTPs), banking details, or remote access. Always verify the request using official contact information.**
 
