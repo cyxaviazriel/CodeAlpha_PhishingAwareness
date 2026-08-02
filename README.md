@@ -1151,3 +1151,51 @@ Prepared by **Alebiosu Oluwadamilare Samuel**
 │                                                 │
 │ Amazon Security Team                            │
 └─────────────────────────────────────────────────┘
+
+<br><br><br><br><br>
+
+---
+
+<br><br><br><br><br>
+
+---
+
+<br><br><br><br><br>
+
+
+
+<!-- ====================== **SLIDE 15** ====================== -->
+
+<div align="center">
+
+# 🛡️ Protect Yourself: Basic Steps
+
+> ## Stop. Think. Do not click.
+
+</div>
+
+---
+
+### 1️⃣ Stop, Think, Do Not Click
+
+- Pause before clicking anything.
+- Take three seconds to verify.
+
+### 2️⃣ Check the Sender
+
+- Click the sender’s name to see the full address.
+- Look for character substitutions.
+- Verify with known contacts.
+
+### 3️⃣ Hover Over Links
+
+- Check the actual destination.
+- Look for HTTPS and the correct domain.
+- Avoid shortened URLs.
+
+### 4️⃣ Verify Attachments
+
+- Scan attachments with antivirus software.
+- Verify unexpected attachments with the sender by phone.
+- Check the file extension.
+
