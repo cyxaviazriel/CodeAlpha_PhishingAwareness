@@ -1,6 +1,8 @@
+<!-- ====================== **SLIDE 1** ====================== -->
+
 <div align="center">
 
-# 🎣 PHISHING AWARENESS TRAINING
+# 🎣 Phishing Awareness Training
 
 <img src="https://img.shields.io/badge/🚨-DON'T%20TAKE%20THE%20BAIT-red?style=for-the-badge" />
 
@@ -12,15 +14,15 @@
 
 <br><br>
 
-## 👨‍💻 **PRESENTED BY**
+## 👨‍💻 **Presented By**
 
 # **Alebiosu Oluwadamilare Samuel**
 
 ### 🛡️ CodeAlpha Cyber Security Intern
 
-📅 **August 2026**
+#### 📅 August 2026
 
-> ## **💡 Think Before You Click Verify Before You Trust**
+> ### **💡 Think Before You Click • Verify Before You Trust**
 
 </div>
 
@@ -28,7 +30,7 @@
 
 <div align="center">
 
-### ⭐ CODEALPHA CYBER SECURITY INTERNSHIP ⭐
+### ⭐ CodeAlpha Cyber Security Internship ⭐
 
 </div>
 
@@ -38,9 +40,11 @@
 
 <br><br><br><br><br>
 
+<!-- ====================== **SLIDE 2** ====================== -->
+
 <div align="center">
 
-# 🎣 WHAT IS PHISHING?
+# 🎣 What Is Phishing?
 
 <img src="https://img.shields.io/badge/🛡️-UNDERSTANDING%20THE%20THREAT-blue?style=for-the-badge" />
 
@@ -54,17 +58,16 @@
 
 ---
 
-# 🛡️ WHAT IS PHISHING?
+# 🛡️ What Is Phishing?
 
-> **Phishing** is a cyberattack where attackers impersonate trusted individuals or organizations to trick victims into revealing confidential information such as passwords, banking credentials, personal information, and credit card details.
+> **Phishing** is a cyberattack where attackers impersonate trusted individuals or organizations to trick victims into revealing confidential information, such as passwords, banking credentials, personal information, and credit card details.
 
 ---
 
-# ⚙️ HOW PHISHING WORKS
+# ⚙️ How Phishing Works
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ## 📧 Fake Emails
@@ -72,7 +75,6 @@
 Attackers send emails pretending to be banks, companies, or trusted contacts to steal confidential information.
 
 </td>
-
 <td width="50%" valign="top">
 
 ## 📱 SMS (Smishing)
@@ -80,11 +82,8 @@ Attackers send emails pretending to be banks, companies, or trusted contacts to 
 Fraudulent text messages encourage victims to click malicious links or disclose sensitive information.
 
 </td>
-
 </tr>
-
 <tr>
-
 <td valign="top">
 
 ## 🌐 Fake Websites
@@ -92,7 +91,6 @@ Fraudulent text messages encourage victims to click malicious links or disclose 
 Counterfeit login pages imitate legitimate websites to steal usernames and passwords.
 
 </td>
-
 <td valign="top">
 
 ## ⚠️ Urgency & Fear
@@ -100,29 +98,27 @@ Counterfeit login pages imitate legitimate websites to steal usernames and passw
 Attackers create panic, curiosity, or excitement to pressure victims into acting without thinking.
 
 </td>
-
 </tr>
-
 </table>
 
 ---
 
-# 🎯 COMMON TARGETS
+# 🎯 Common Targets
 
 | 🎯 Target | 🔍 Information Sought |
-|:---------|:----------------------|
-| 🏦 Bank Accounts | Online Banking Credentials |
-| 💼 Company Accounts | Employee Login Credentials |
-| 🆔 Personal Identity | Personal Identification Information |
-| 💳 Credit Cards | Card Numbers, CVV & PIN |
+|:--|:--|
+| 🏦 Bank Accounts | Online banking credentials |
+| 💼 Company Accounts | Employee login credentials |
+| 🆔 Personal Identity | Personal identification information |
+| 💳 Credit Cards | Card numbers, CVV & PIN |
 
 ---
 
 <div align="center">
 
-# 🛡️ SECURITY TIP
+# 🛡️ Security Tip
 
-# 🛑 **STOP ➜ THINK ➜ VERIFY ➜ THEN CLICK**
+# 🛑 **Stop ➜ Think ➜ Verify ➜ Then Click**
 
 > **If an email, message, or website asks for sensitive information or creates urgency, verify its authenticity before responding.**
 
@@ -132,9 +128,9 @@ Attackers create panic, curiosity, or excitement to pressure victims into acting
 
 <div align="center">
 
-### ⭐ CODEALPHA CYBER SECURITY INTERNSHIP ⭐
+### ⭐ CodeAlpha Cyber Security Internship ⭐
 
-**PHISHING AWARENESS TRAINING**
+**Phishing Awareness Training**
 
 </div>
 
@@ -144,9 +140,11 @@ Attackers create panic, curiosity, or excitement to pressure victims into acting
 
 <br><br><br><br><br>
 
+<!-- ====================== **SLIDE 3** ====================== -->
+
 <div align="center">
 
-# 📊 WHY PHISHING MATTERS
+# 📊 Why Phishing Matters
 
 <img src="https://img.shields.io/badge/🚨-THE%20STATISTICS%20SPEAK%20FOR%20THEMSELVES-orange?style=for-the-badge" />
 
@@ -160,10 +158,10 @@ Attackers create panic, curiosity, or excitement to pressure victims into acting
 
 ---
 
-# 📈 SHOCKING STATISTICS
+# 📈 Shocking Statistics
 
 | 📊 Metric | 📌 Impact |
-|:---------|:----------|
+|:--|:--|
 | 🎣 **91%** | Of cyberattacks begin with phishing |
 | 📧 **3.4+ Billion** | Phishing emails are sent every day |
 | 👥 **1 in 5 Employees** | Click on phishing links |
@@ -173,55 +171,41 @@ Attackers create panic, curiosity, or excitement to pressure victims into acting
 
 ---
 
-# ⚠️ THE REALITY
+# ⚠️ The Reality
 
-<table>
-
-<tr>
-
+<table><tr>
 <td width="33%" align="center">
 
 # 💸
-
-## **ONE MISTAKE**
+## **One Mistake**
 
 A single employee clicking a malicious link can cost an organization **millions of dollars.**
 
-</td>
-
-<td width="33%" align="center">
+</td><td width="33%" align="center">
 
 # 📈
-
-## **RISING THREAT**
+## **Rising Threat**
 
 Phishing attacks continue to increase, making them one of the fastest-growing cyber threats.
 
-</td>
-
-<td width="33%" align="center">
+</td><td width="33%" align="center">
 
 # 🎯
+## **Everyone Is a Target**
 
-## **EVERYONE IS A TARGET**
+No organization or individual is immune; **every employee plays a critical role in cybersecurity.**
 
-No organization or individual is immune **every employee plays a critical role in cybersecurity.**
-
-</td>
-
-</tr>
-
-</table>
+</td></tr></table>
 
 ---
 
 <div align="center">
 
-# 🚨 KEY TAKEAWAY
+# 🚨 Key Takeaway
 
-> ## **Phishing is not just an IT problem it is a business risk that affects everyone.**
+> ## **Phishing is not just an IT problem; it is a business risk that affects everyone.**
 
-# 🛡️ **AWARENESS + VIGILANCE = YOUR BEST DEFENSE**
+# 🛡️ **Awareness + Vigilance = Your Best Defense**
 
 </div>
 
@@ -229,25 +213,25 @@ No organization or individual is immune **every employee plays a critical role i
 
 <div align="center">
 
-### ⭐ CODEALPHA CYBER SECURITY INTERNSHIP ⭐
+### ⭐ CodeAlpha Cyber Security Internship ⭐
 
-**PHISHING AWARENESS TRAINING**
+**Phishing Awareness Training**
 
 Prepared by **Alebiosu Oluwadamilare Samuel**
 
 </div>
 
-<!-- ====================== SLIDE 4 ====================== -->
-
 <br><br><br><br><br>
 
 ---
 
 <br><br><br><br><br>
 
+<!-- ====================== **SLIDE 4** ====================== -->
+
 <div align="center">
 
-# 📧 TYPES OF PHISHING
+# 📧 Types of Phishing
 
 <img src="https://img.shields.io/badge/📧-EMAIL%20PHISHING-red?style=for-the-badge" />
 
@@ -261,29 +245,24 @@ Prepared by **Alebiosu Oluwadamilare Samuel**
 
 ---
 
-# 📖 WHAT IS EMAIL PHISHING?
+# 📖 What Is Email Phishing?
 
-> **Email Phishing** is the **most common type of phishing attack**, where cybercriminals send fraudulent emails to thousands of recipients while pretending to be trusted organizations, businesses, or individuals.
+> **Email phishing** is the **most common type of phishing attack**, where cybercriminals send fraudulent emails to thousands of recipients while pretending to be trusted organizations, businesses, or individuals.
 
 ---
 
-# ⚙️ KEY CHARACTERISTICS
+# ⚙️ Key Characteristics
 
-<table>
-
-<tr>
-
+<table><tr>
 <td width="50%" valign="top">
 
-## 📧 MASS EMAIL CAMPAIGNS
+## 📧 Mass Email Campaigns
 
 Attackers send the **same phishing email** to thousands of people, hoping that a small percentage will click the malicious link or provide sensitive information.
 
-</td>
+</td><td width="50%" valign="top">
 
-<td width="50%" valign="top">
-
-## 👤 GENERIC GREETINGS
+## 👤 Generic Greetings
 
 Phishing emails usually avoid using your real name and instead use greetings like:
 
@@ -291,15 +270,11 @@ Phishing emails usually avoid using your real name and instead use greetings lik
 - **Dear User**
 - **Valued Client**
 
-</td>
-
-</tr>
-
-</table>
+</td></tr></table>
 
 ---
 
-# 📨 PHISHING EMAIL EXAMPLE
+# 📨 Phishing Email Example
 
 <div align="center">
 
@@ -309,59 +284,43 @@ Phishing emails usually avoid using your real name and instead use greetings lik
 
 ---
 
-# 🔍 HOW TO SPOT A PHISHING EMAIL
+# 🔍 How to Spot a Phishing Email
 
-<table>
-
-<tr>
-
+<table><tr>
 <td width="50%" valign="top">
 
-## 👤 GENERIC SALUTATION
+## 👤 Generic Salutation
 
 The message does not address you by your real name.
 
-</td>
+</td><td width="50%" valign="top">
 
-<td width="50%" valign="top">
-
-## ✍️ SPELLING & GRAMMAR ERRORS
+## ✍️ Spelling & Grammar Errors
 
 Look for unusual wording, poor grammar, or spelling mistakes.
 
-</td>
-
-</tr>
-
-<tr>
-
+</td></tr><tr>
 <td valign="top">
 
-## 📩 SUSPICIOUS SENDER ADDRESS
+## 📩 Suspicious Sender Address
 
 Check whether the sender's email address matches the official organization.
 
-</td>
+</td><td valign="top">
 
-<td valign="top">
-
-## 🔗 LINKS & ATTACHMENTS
+## 🔗 Links & Attachments
 
 Never click suspicious links or open unexpected attachments without verifying the sender.
 
-</td>
-
-</tr>
-
-</table>
+</td></tr></table>
 
 ---
 
 <div align="center">
 
-# 🛡️ SECURITY TIP
+# 🛡️ Security Tip
 
-# 🚫 **STOP ➜ INSPECT ➜ VERIFY ➜ REPORT**
+# 🚫 **Stop ➜ Inspect ➜ Verify ➜ Report**
 
 > **Always verify the sender's identity before clicking links, downloading attachments, or sharing personal information.**
 
@@ -371,15 +330,13 @@ Never click suspicious links or open unexpected attachments without verifying th
 
 <div align="center">
 
-### ⭐ CODEALPHA CYBER SECURITY INTERNSHIP ⭐
+### ⭐ CodeAlpha Cyber Security Internship ⭐
 
-**PHISHING AWARENESS TRAINING**
+**Phishing Awareness Training**
 
 Prepared by **Alebiosu Oluwadamilare Samuel**
 
 </div>
-
-<!-- ====================== SLIDE 5 ====================== -->
 
 <br><br><br><br><br>
 
@@ -387,9 +344,11 @@ Prepared by **Alebiosu Oluwadamilare Samuel**
 
 <br><br><br><br><br>
 
+<!-- ====================== **SLIDE 5** ====================== -->
+
 <div align="center">
 
-# 🎯 TYPES OF PHISHING
+# 🎯 Types of Phishing
 
 <img src="https://img.shields.io/badge/🎯-SPEAR%20PHISHING-darkred?style=for-the-badge" />
 
@@ -403,29 +362,24 @@ Prepared by **Alebiosu Oluwadamilare Samuel**
 
 ---
 
-# 📖 WHAT IS SPEAR PHISHING?
+# 📖 What Is Spear Phishing?
 
-> **Spear Phishing** is a **highly targeted phishing attack** aimed at a specific individual or organization. Unlike regular phishing, attackers carefully research their victims and craft personalized messages that appear genuine and trustworthy.
+> **Spear phishing** is a **highly targeted phishing attack** aimed at a specific individual or organization. Unlike regular phishing, attackers carefully research their victims and craft personalized messages that appear genuine and trustworthy.
 
 ---
 
-# ⚙️ KEY CHARACTERISTICS
+# ⚙️ Key Characteristics
 
-<table>
-
-<tr>
-
+<table><tr>
 <td width="50%" valign="top">
 
-## 🎯 TARGETED VICTIMS
+## 🎯 Targeted Victims
 
 Attackers focus on **specific individuals**, such as executives, employees, or managers, instead of sending mass emails.
 
-</td>
+</td><td width="50%" valign="top">
 
-<td width="50%" valign="top">
-
-## 🔍 EXTENSIVE RESEARCH
+## 🔍 Extensive Research
 
 Before launching the attack, cybercriminals gather information such as:
 
@@ -435,97 +389,70 @@ Before launching the attack, cybercriminals gather information such as:
 - Business contacts
 - Social media profiles
 
-</td>
-
-</tr>
-
-<tr>
-
+</td></tr><tr>
 <td valign="top">
 
-## 💬 PERSONALIZED MESSAGES
+## 💬 Personalized Messages
 
 The email often includes **real names, company information, projects, or clients**, making it appear authentic.
 
-</td>
+</td><td valign="top">
 
-<td valign="top">
-
-## 🚨 HARDER TO DETECT
+## 🚨 Harder to Detect
 
 Because the email is tailored to the victim, it is much more convincing than traditional phishing attacks.
 
-</td>
-
-</tr>
-
-</table>
+</td></tr></table>
 
 ---
 
-# 📨 SPEAR PHISHING EXAMPLE
+# 📨 Spear Phishing Example
 
 <div align="center">
 
-> ## 💼 **Hi Mr CodeAlpha, our client needs this payment processed before 5:00 PM. Please review and confirm immediately cyxaviazriel**
+> ## 💼 **Hi Mr. CodeAlpha, our client needs this payment processed before 5:00 PM. Please review and confirm immediately.**
 
 </div>
 
 ---
 
-# ⚠️ WHY IS SPEAR PHISHING DANGEROUS?
+# ⚠️ Why Is Spear Phishing Dangerous?
 
-<table>
-
-<tr>
-
+<table><tr>
 <td width="50%" valign="top">
 
-## 👤 USES REAL IDENTITIES
+## 👤 Uses Real Identities
 
 Attackers impersonate trusted colleagues, executives, vendors, or business partners.
 
-</td>
+</td><td width="50%" valign="top">
 
-<td width="50%" valign="top">
-
-## 📂 REFERENCES REAL PROJECTS
+## 📂 References Real Projects
 
 Messages may mention actual meetings, invoices, projects, or clients to gain your trust.
 
-</td>
-
-</tr>
-
-<tr>
-
+</td></tr><tr>
 <td valign="top">
 
-## 📧 APPEARS LEGITIMATE
+## 📧 Appears Legitimate
 
 The email often looks identical to genuine corporate communications.
 
-</td>
+</td><td valign="top">
 
-<td valign="top">
-
-## 🤝 EXPLOITS TRUST
+## 🤝 Exploits Trust
 
 Cybercriminals take advantage of personal and professional relationships to manipulate victims.
 
-</td>
-
-</tr>
-
-</table>
+</td></tr></table>
 
 ---
 
 <div align="center">
 
-# 🛡️ SECURITY TIP
+# 🛡️ Security Tip
 
-# 🛑 **VERIFY ➜ CONFIRM ➜ DON'T ASSUME**
+# 🛑 **Verify ➜ Confirm ➜ Don't Assume**
 
 > **Even if an email appears to come from your manager or a trusted colleague, verify unusual requests through another communication channel before taking action.**
 
@@ -535,15 +462,13 @@ Cybercriminals take advantage of personal and professional relationships to mani
 
 <div align="center">
 
-### ⭐ CODEALPHA CYBER SECURITY INTERNSHIP ⭐
+### ⭐ CodeAlpha Cyber Security Internship ⭐
 
-**PHISHING AWARENESS TRAINING**
+**Phishing Awareness Training**
 
 Prepared by **Alebiosu Oluwadamilare Samuel**
 
 </div>
-
-<!-- ====================== SLIDE 6 ====================== -->
 
 <br><br><br><br><br>
 
@@ -551,9 +476,11 @@ Prepared by **Alebiosu Oluwadamilare Samuel**
 
 <br><br><br><br><br>
 
+<!-- ====================== **SLIDE 6** ====================== -->
+
 <div align="center">
 
-# 🐋 TYPES OF PHISHING
+# 🐋 Types of Phishing
 
 <img src="https://img.shields.io/badge/🐋-WHALING%20(CEO%20FRAUD)-darkred?style=for-the-badge" />
 
@@ -567,143 +494,102 @@ Prepared by **Alebiosu Oluwadamilare Samuel**
 
 ---
 
-# 📖 WHAT IS WHALING (CEO FRAUD)?
+# 📖 What Is Whaling (CEO Fraud)?
 
-> **Whaling**, also known as **CEO Fraud** or **Business Email Compromise (BEC)**, is a sophisticated phishing attack that targets **high level executives** such as CEOs, CFOs, Directors, and senior managers. Attackers impersonate trusted executives to manipulate employees into performing unauthorized financial or confidential actions.
+> **Whaling**, also known as **CEO fraud** or **Business Email Compromise (BEC)**, is a sophisticated phishing attack that targets **high-level executives** such as CEOs, CFOs, directors, and senior managers. Attackers impersonate trusted executives to manipulate employees into performing unauthorized financial or confidential actions.
 
 ---
 
-# ⚙️ KEY CHARACTERISTICS
+# ⚙️ Key Characteristics
 
-<table>
-
-<tr>
-
+<table><tr>
 <td width="50%" valign="top">
 
-## 👔 HIGH-VALUE TARGETS
+## 👔 High-Value Targets
 
 Whaling attacks focus on senior executives and decision-makers who have access to sensitive information and financial resources.
 
-</td>
+</td><td width="50%" valign="top">
 
-<td width="50%" valign="top">
-
-## 🎭 EXECUTIVE IMPERSONATION
+## 🎭 Executive Impersonation
 
 Cybercriminals pretend to be company leaders or trusted authorities to gain immediate trust and compliance.
 
-</td>
-
-</tr>
-
-<tr>
-
+</td></tr><tr>
 <td valign="top">
 
-## 💰 FINANCIAL FRAUD
+## 💰 Financial Fraud
 
 Victims are pressured to authorize wire transfers, approve invoices, or release confidential financial records.
 
-</td>
+</td><td valign="top">
 
-<td valign="top">
-
-## ⚠️ URGENT REQUESTS
+## ⚠️ Urgent Requests
 
 Attackers create a sense of urgency to prevent victims from verifying the legitimacy of the request.
 
-</td>
-
-</tr>
-
-</table>
+</td></tr></table>
 
 ---
 
-# 📨 COMMON WHALING SCENARIOS
+# 📨 Common Whaling Scenarios
 
-<table>
-
-<tr>
-
+<table><tr>
 <td width="33%" align="center">
 
-## 💸 CEO EMAIL
+## 💸 CEO Email
 
 > **URGENT: Wire \$500,000 to our new overseas partner immediately.**
 
-</td>
+</td><td width="33%" align="center">
 
-<td width="33%" align="center">
-
-## ⚖️ LEGAL THREAT
+## ⚖️ Legal Threat
 
 > **Your company is facing legal action. Respond immediately to avoid penalties.**
 
-</td>
+</td><td width="33%" align="center">
 
-<td width="33%" align="center">
-
-## 📄 PAYROLL REQUEST
+## 📄 Payroll Request
 
 > **Please send all employee payroll or tax records to this email address today.**
 
-</td>
-
-</tr>
-
-</table>
+</td></tr></table>
 
 ---
 
-# 🚨 POTENTIAL IMPACT
+# 🚨 Potential Impact
 
-<table>
-
-<tr>
-
+<table><tr>
 <td width="33%" align="center">
 
 # 💸
-
-## **MASSIVE FINANCIAL LOSS**
+## **Massive Financial Loss**
 
 Whaling attacks can result in **millions of dollars** in fraudulent transactions.
 
-</td>
-
-<td width="33%" align="center">
+</td><td width="33%" align="center">
 
 # 🏢
-
-## **REPUTATIONAL DAMAGE**
+## **Reputational Damage**
 
 Successful attacks can severely damage customer trust, business relationships, and corporate reputation.
 
-</td>
-
-<td width="33%" align="center">
+</td><td width="33%" align="center">
 
 # ⚖️
-
-## **COMPLIANCE VIOLATIONS**
+## **Compliance Violations**
 
 Organizations may face legal consequences, regulatory penalties, and data privacy breaches.
 
-</td>
-
-</tr>
-
-</table>
+</td></tr></table>
 
 ---
 
 <div align="center">
 
-# 🛡️ SECURITY TIP
+# 🛡️ Security Tip
 
-# 🛑 **VERIFY ➜ APPROVE  ➜ CONFIRM**
+# 🛑 **Verify ➜ Approve ➜ Confirm**
 
 > **Never authorize financial transactions, payroll requests, or confidential data transfers based solely on an email. Always verify the request through an independent communication channel before taking action.**
 
@@ -713,15 +599,13 @@ Organizations may face legal consequences, regulatory penalties, and data privac
 
 <div align="center">
 
-### ⭐ CODEALPHA CYBER SECURITY INTERNSHIP ⭐
+### ⭐ CodeAlpha Cyber Security Internship ⭐
 
-**PHISHING AWARENESS TRAINING**
+**Phishing Awareness Training**
 
 Prepared by **Alebiosu Oluwadamilare Samuel**
 
 </div>
-
-<!-- ====================== SLIDE 7 ====================== -->
 
 <br><br><br><br><br>
 
@@ -729,9 +613,11 @@ Prepared by **Alebiosu Oluwadamilare Samuel**
 
 <br><br><br><br><br>
 
+<!-- ====================== **SLIDE 7** ====================== -->
+
 <div align="center">
 
-# 📱 TYPES OF PHISHING
+# 📱 Types of Phishing
 
 <img src="https://img.shields.io/badge/📱-SMISHING%20%26%20VISHING-darkred?style=for-the-badge" />
 
@@ -745,46 +631,37 @@ Prepared by **Alebiosu Oluwadamilare Samuel**
 
 ---
 
-# 📖 WHAT ARE SMISHING & VISHING?
+# 📖 What Are Smishing & Vishing?
 
-> **Smishing** and **Vishing** are phishing attacks that use **SMS text messages** and **phone calls** instead of email. Cybercriminals exploit trust, urgency, and fear to trick victims into revealing confidential information or installing malicious software.
+> **Smishing** and **vishing** are phishing attacks that use **SMS text messages** and **phone calls** instead of email. Cybercriminals exploit trust, urgency, and fear to trick victims into revealing confidential information or installing malicious software.
 
 ---
 
-# 📱 SMISHING (SMS PHISHING)
+# 📱 Smishing (SMS Phishing)
 
-<table>
-
-<tr>
-
+<table><tr>
 <td width="50%" valign="top">
 
-## 📩 WHAT IS SMISHING?
+## 📩 What Is Smishing?
 
 Smishing is a phishing attack delivered through **text messages (SMS)** containing malicious links, fake websites, or fraudulent phone numbers.
 
-</td>
+</td><td width="50%" valign="top">
 
-<td width="50%" valign="top">
-
-## 🎯 COMMON IMPERSONATIONS
+## 🎯 Common Impersonations
 
 Attackers commonly pretend to be:
 
 - 🏦 Banks
-- 📦 Delivery Services
-- 🏛️ Government Agencies
-- 💳 Payment Providers
+- 📦 Delivery services
+- 🏛️ Government agencies
+- 💳 Payment providers
 
-</td>
-
-</tr>
-
-</table>
+</td></tr></table>
 
 ---
 
-# 📨 SMISHING EXAMPLE
+# 📨 Smishing Example
 
 <div align="center">
 
@@ -794,40 +671,31 @@ Attackers commonly pretend to be:
 
 ---
 
-# ☎️ VISHING (VOICE PHISHING)
+# ☎️ Vishing (Voice Phishing)
 
-<table>
-
-<tr>
-
+<table><tr>
 <td width="50%" valign="top">
 
-## 📞 WHAT IS VISHING?
+## 📞 What Is Vishing?
 
 Vishing is a phishing attack conducted through **phone calls**, where scammers impersonate trusted organizations to obtain confidential information.
 
-</td>
+</td><td width="50%" valign="top">
 
-<td width="50%" valign="top">
-
-## 🎭 COMMON IMPERSONATIONS
+## 🎭 Common Impersonations
 
 Attackers may claim to represent:
 
-- 💻 Technical Support
+- 💻 Technical support
 - 🏦 Banks
-- 🏛️ Government Agencies
-- 🚔 Law Enforcement
+- 🏛️ Government agencies
+- 🚔 Law enforcement
 
-</td>
-
-</tr>
-
-</table>
+</td></tr></table>
 
 ---
 
-# 🎙️ VISHING EXAMPLE
+# 🎙️ Vishing Example
 
 <div align="center">
 
@@ -837,47 +705,38 @@ Attackers may claim to represent:
 
 ---
 
-# 🚨 WARNING SIGNS
+# 🚨 Warning Signs
 
-<table>
-
-<tr>
-
+<table><tr>
 <td width="50%" valign="top">
 
-## 📱 SMISHING RED FLAGS
+## 📱 Smishing Red Flags
 
 - 🔗 Shortened or suspicious links
 - ⚠️ Urgent delivery or payment alerts
 - 💰 Unexpected prize or reward offers
 - 🔒 Requests for personal information
 
-</td>
+</td><td width="50%" valign="top">
 
-<td width="50%" valign="top">
-
-## ☎️ VISHING RED FLAGS
+## ☎️ Vishing Red Flags
 
 - 🎭 Caller claims to be from a trusted organization
 - ⏰ Pressure to act immediately
-- 🔑 Requests for passwords, OTPs, or banking details
+- 🔑 Requests for passwords, one-time passwords (OTPs), or banking details
 - 📲 Requests to install software or grant remote access
 
-</td>
-
-</tr>
-
-</table>
+</td></tr></table>
 
 ---
 
 <div align="center">
 
-# 🛡️ SECURITY TIP
+# 🛡️ Security Tip
 
-# 🛑 **STOP ➜ VERIFY ➜ NEVER SHARE SENSITIVE INFORMATION**
+# 🛑 **Stop ➜ Verify ➜ Never Share Sensitive Information**
 
-> **Never trust unsolicited text messages or phone calls requesting personal information, passwords, one time passwords (OTPs), banking details, or remote access. Always verify the request using official contact information.**
+> **Never trust unsolicited text messages or phone calls requesting personal information, passwords, one-time passwords (OTPs), banking details, or remote access. Always verify the request using official contact information.**
 
 </div>
 
@@ -885,25 +744,25 @@ Attackers may claim to represent:
 
 <div align="center">
 
-### ⭐ CODEALPHA CYBER SECURITY INTERNSHIP ⭐
+### ⭐ CodeAlpha Cyber Security Internship ⭐
 
-**PHISHING AWARENESS TRAINING**
+**Phishing Awareness Training**
 
 Prepared by **Alebiosu Oluwadamilare Samuel**
 
 </div>
 
-<!-- ====================== SLIDE 8 ====================== -->
-
 <br><br><br><br><br>
 
 ---
 
 <br><br><br><br><br>
 
+<!-- ====================== **SLIDE 8** ====================== -->
+
 <div align="center">
 
-# 🔄 TYPES OF PHISHING
+# 🔄 Types of Phishing
 
 <img src="https://img.shields.io/badge/🔄-CLONE%20PHISHING%20%26%20PHARMING-darkred?style=for-the-badge" />
 
@@ -917,75 +776,57 @@ Prepared by **Alebiosu Oluwadamilare Samuel**
 
 ---
 
-# 📖 WHAT ARE CLONE PHISHING & PHARMING?
+# 📖 What Are Clone Phishing & Pharming?
 
-> **Clone Phishing** and **Pharming** are advanced phishing techniques designed to deceive users into trusting malicious content. While **Clone Phishing** disguises itself as a familiar email, **Pharming** secretly redirects victims to fake websites—even when they enter the correct web address.
+> **Clone phishing** and **pharming** are advanced phishing techniques designed to deceive users into trusting malicious content. While **clone phishing** disguises itself as a familiar email, **pharming** secretly redirects victims to fake websites—even when they enter the correct web address.
 
 ---
 
-# 🔄 CLONE PHISHING
+# 🔄 Clone Phishing
 
-<table>
-
-<tr>
-
+<table><tr>
 <td width="50%" valign="top">
 
-## 📧 WHAT IS CLONE PHISHING?
+## 📧 What Is Clone Phishing?
 
-Clone Phishing is an attack where cybercriminals **copy a legitimate email** that you previously received and replace its original link or attachment with a malicious version.
+Clone phishing is an attack where cybercriminals **copy a legitimate email** that you previously received and replace its original link or attachment with a malicious version.
 
-</td>
+</td><td width="50%" valign="top">
 
-<td width="50%" valign="top">
-
-## ⚠️ HOW IT WORKS
+## ⚠️ How It Works
 
 - 📩 Copies a genuine email
 - 🔗 Replaces safe links with malicious ones
 - 📎 Swaps genuine attachments for infected files
 - 🔄 Claims to be an updated or resent email
 
-</td>
-
-</tr>
-
-</table>
+</td></tr></table>
 
 ---
 
-# 🌐 PHARMING
+# 🌐 Pharming
 
-<table>
-
-<tr>
-
+<table><tr>
 <td width="50%" valign="top">
 
-## 🌍 WHAT IS PHARMING?
+## 🌍 What Is Pharming?
 
 Pharming is a cyberattack that **redirects users to fraudulent websites** without their knowledge, even when they type the correct website address.
 
-</td>
+</td><td width="50%" valign="top">
 
-<td width="50%" valign="top">
-
-## ⚙️ HOW IT WORKS
+## ⚙️ How It Works
 
 - 🌐 Hijacks legitimate website traffic
 - 🧪 Uses DNS poisoning or malware
 - 💻 Modifies DNS or the hosts file
 - 🎭 Displays a convincing fake website
 
-</td>
-
-</tr>
-
-</table>
+</td></tr></table>
 
 ---
 
-# 📨 EXAMPLE SCENARIO
+# 📨 Example Scenario
 
 <div align="center">
 
@@ -995,45 +836,36 @@ Pharming is a cyberattack that **redirects users to fraudulent websites** withou
 
 ---
 
-# 🚨 WARNING SIGNS
+# 🚨 Warning Signs
 
-<table>
-
-<tr>
-
+<table><tr>
 <td width="50%" valign="top">
 
-## 🔄 CLONE PHISHING RED FLAGS
+## 🔄 Clone Phishing Red Flags
 
 - 📧 Duplicate or unexpected emails
-- 🔄 Updated or Resent" messages
+- 🔄 Updated or "Resent" messages
 - 📎 Unexpected attachments
 - 🔗 Links different from previous emails
 
-</td>
+</td><td width="50%" valign="top">
 
-<td width="50%" valign="top">
-
-## 🌐 PHARMING RED FLAGS
+## 🌐 Pharming Red Flags
 
 - 🔒 Missing or invalid HTTPS certificate
 - 🌍 Strange-looking website address
 - 🎨 Website design looks slightly different
 - 🔑 Unexpected login requests
 
-</td>
-
-</tr>
-
-</table>
+</td></tr></table>
 
 ---
 
 <div align="center">
 
-# 🛡️ SECURITY TIP
+# 🛡️ Security Tip
 
-# 🛑 **CHECK THE URL ➜ VERIFY THE WEBSITE ➜ DON'T RUSH**
+# 🛑 **Check the URL ➜ Verify the Website ➜ Don't Rush**
 
 > **Always inspect website addresses, verify HTTPS certificates, and avoid clicking links from unexpected emails. If something feels unusual, access the website directly through its official URL or bookmark.**
 
@@ -1043,9 +875,9 @@ Pharming is a cyberattack that **redirects users to fraudulent websites** withou
 
 <div align="center">
 
-### ⭐ CODEALPHA CYBER SECURITY INTERNSHIP ⭐
+### ⭐ CodeAlpha Cyber Security Internship ⭐
 
-**PHISHING AWARENESS TRAINING**
+**Phishing Awareness Training**
 
 Prepared by **Alebiosu Oluwadamilare Samuel**
 
