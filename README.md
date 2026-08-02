@@ -122,7 +122,7 @@ Attackers create panic, curiosity, or excitement to pressure victims into acting
 
 # 🛡️ SECURITY TIP
 
-# 🛑 **STOP  THINK  VERIFY  THEN CLICK**
+# 🛑 **STOP ➜ THINK ➜ VERIFY ➜ THEN CLICK**
 
 > **If an email, message, or website asks for sensitive information or creates urgency, verify its authenticity before responding.**
 
@@ -361,7 +361,7 @@ Never click suspicious links or open unexpected attachments without verifying th
 
 # 🛡️ SECURITY TIP
 
-# 🚫 **STOP  INSPECT  VERIFY  REPORT**
+# 🚫 **STOP ➜ INSPECT ➜ VERIFY ➜ REPORT**
 
 > **Always verify the sender's identity before clicking links, downloading attachments, or sharing personal information.**
 
@@ -525,7 +525,7 @@ Cybercriminals take advantage of personal and professional relationships to mani
 
 # 🛡️ SECURITY TIP
 
-# 🛑 **VERIFY  CONFIRM  DON'T ASSUME**
+# 🛑 **VERIFY ➜ CONFIRM ➜ DON'T ASSUME**
 
 > **Even if an email appears to come from your manager or a trusted colleague, verify unusual requests through another communication channel before taking action.**
 
@@ -703,7 +703,7 @@ Organizations may face legal consequences, regulatory penalties, and data privac
 
 # 🛡️ SECURITY TIP
 
-# 🛑 **VERIFY  APPROVE   CONFIRM**
+# 🛑 **VERIFY ➜ APPROVE  ➜ CONFIRM**
 
 > **Never authorize financial transactions, payroll requests, or confidential data transfers based solely on an email. Always verify the request through an independent communication channel before taking action.**
 
@@ -875,7 +875,7 @@ Attackers may claim to represent:
 
 # 🛡️ SECURITY TIP
 
-# 🛑 **STOP  VERIFY  NEVER SHARE SENSITIVE INFORMATION**
+# 🛑 **STOP ➜ VERIFY ➜ NEVER SHARE SENSITIVE INFORMATION**
 
 > **Never trust unsolicited text messages or phone calls requesting personal information, passwords, one time passwords (OTPs), banking details, or remote access. Always verify the request using official contact information.**
 
@@ -893,3 +893,160 @@ Prepared by **Alebiosu Oluwadamilare Samuel**
 
 </div>
 
+<!-- ====================== SLIDE 8 ====================== -->
+
+<br><br><br><br><br>
+
+---
+
+<br><br><br><br><br>
+
+<div align="center">
+
+# 🔄 TYPES OF PHISHING
+
+<img src="https://img.shields.io/badge/🔄-CLONE%20PHISHING%20%26%20PHARMING-darkred?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Cybersecurity-Web%20Security-red?style=for-the-badge&logo=hackaday&logoColor=white" />
+<img src="https://img.shields.io/badge/Threat-Clone%20Phishing%20%26%20Pharming-orange?style=for-the-badge&logo=protonmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Awareness-Always%20Verify-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
+
+</div>
+
+---
+
+# 📖 WHAT ARE CLONE PHISHING & PHARMING?
+
+> **Clone Phishing** and **Pharming** are advanced phishing techniques designed to deceive users into trusting malicious content. While **Clone Phishing** disguises itself as a familiar email, **Pharming** secretly redirects victims to fake websites—even when they enter the correct web address.
+
+---
+
+# 🔄 CLONE PHISHING
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📧 WHAT IS CLONE PHISHING?
+
+Clone Phishing is an attack where cybercriminals **copy a legitimate email** that you previously received and replace its original link or attachment with a malicious version.
+
+</td>
+
+<td width="50%" valign="top">
+
+## ⚠️ HOW IT WORKS
+
+- 📩 Copies a genuine email
+- 🔗 Replaces safe links with malicious ones
+- 📎 Swaps genuine attachments for infected files
+- 🔄 Claims to be an updated or resent email
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🌐 PHARMING
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌍 WHAT IS PHARMING?
+
+Pharming is a cyberattack that **redirects users to fraudulent websites** without their knowledge, even when they type the correct website address.
+
+</td>
+
+<td width="50%" valign="top">
+
+## ⚙️ HOW IT WORKS
+
+- 🌐 Hijacks legitimate website traffic
+- 🧪 Uses DNS poisoning or malware
+- 💻 Modifies DNS or the hosts file
+- 🎭 Displays a convincing fake website
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📨 EXAMPLE SCENARIO
+
+<div align="center">
+
+> ## 🏦 **You type bank.com into your browser, but you are silently redirected to a fake banking website designed to steal your login credentials.**
+
+</div>
+
+---
+
+# 🚨 WARNING SIGNS
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🔄 CLONE PHISHING RED FLAGS
+
+- 📧 Duplicate or unexpected emails
+- 🔄 Updated or Resent" messages
+- 📎 Unexpected attachments
+- 🔗 Links different from previous emails
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌐 PHARMING RED FLAGS
+
+- 🔒 Missing or invalid HTTPS certificate
+- 🌍 Strange-looking website address
+- 🎨 Website design looks slightly different
+- 🔑 Unexpected login requests
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+# 🛡️ SECURITY TIP
+
+# 🛑 **CHECK THE URL ➜ VERIFY THE WEBSITE ➜ DON'T RUSH**
+
+> **Always inspect website addresses, verify HTTPS certificates, and avoid clicking links from unexpected emails. If something feels unusual, access the website directly through its official URL or bookmark.**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ CODEALPHA CYBER SECURITY INTERNSHIP ⭐
+
+**PHISHING AWARENESS TRAINING**
+
+Prepared by **Alebiosu Oluwadamilare Samuel**
+
+</div>
