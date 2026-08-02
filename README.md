@@ -236,3 +236,147 @@ No organization or individual is immune **every employee plays a critical role i
 Prepared by **Alebiosu Oluwadamilare Samuel**
 
 </div>
+
+<!-- ====================== SLIDE 4 ====================== -->
+
+<br><br><br><br><br>
+
+---
+
+<br><br><br><br><br>
+
+<div align="center">
+
+# 📧 TYPES OF PHISHING
+
+<img src="https://img.shields.io/badge/📧-EMAIL%20PHISHING-red?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Cybersecurity-Email%20Security-red?style=for-the-badge&logo=hackaday&logoColor=white" />
+<img src="https://img.shields.io/badge/Threat-Email%20Phishing-orange?style=for-the-badge&logo=protonmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Awareness-Think%20Before%20You%20Click-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+
+</div>
+
+---
+
+# 📖 WHAT IS EMAIL PHISHING?
+
+> **Email Phishing** is the **most common type of phishing attack**, where cybercriminals send fraudulent emails to thousands of recipients while pretending to be trusted organizations, businesses, or individuals.
+
+---
+
+# ⚙️ KEY CHARACTERISTICS
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📧 MASS EMAIL CAMPAIGNS
+
+Attackers send the **same phishing email** to thousands of people, hoping that a small percentage will click the malicious link or provide sensitive information.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 👤 GENERIC GREETINGS
+
+Phishing emails usually avoid using your real name and instead use greetings like:
+
+- **Dear Customer**
+- **Dear User**
+- **Valued Client**
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📨 PHISHING EMAIL EXAMPLE
+
+<div align="center">
+
+> ## 🚨 **Your account has been compromised. Click here to verify your identity immediately.**
+
+</div>
+
+---
+
+# 🔍 HOW TO SPOT A PHISHING EMAIL
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 👤 GENERIC SALUTATION
+
+The message does not address you by your real name.
+
+</td>
+
+<td width="50%" valign="top">
+
+## ✍️ SPELLING & GRAMMAR ERRORS
+
+Look for unusual wording, poor grammar, or spelling mistakes.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+## 📩 SUSPICIOUS SENDER ADDRESS
+
+Check whether the sender's email address matches the official organization.
+
+</td>
+
+<td valign="top">
+
+## 🔗 LINKS & ATTACHMENTS
+
+Never click suspicious links or open unexpected attachments without verifying the sender.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+# 🛡️ SECURITY TIP
+
+# 🚫 **STOP  INSPECT  VERIFY  REPORT**
+
+> **Always verify the sender's identity before clicking links, downloading attachments, or sharing personal information.**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ CODEALPHA CYBER SECURITY INTERNSHIP ⭐
+
+**PHISHING AWARENESS TRAINING**
+
+Prepared by **Alebiosu Oluwadamilare Samuel**
+
+</div>
+
+
