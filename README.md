@@ -1,4 +1,19 @@
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  PHISHING AWARENESS TRAINING · GITHUB MARKDOWN PRESENTATION  ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Threat%20Level-High-dc2626?style=flat-square&logo=securityscorecard&logoColor=white" />
+<img src="https://img.shields.io/badge/Defense-Think%20Before%20You%20Click-0369a1?style=flat-square&logo=shieldsdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Awareness%20Training-15803d?style=flat-square&logo=github&logoColor=white" />
+
+</div>
+
 <!-- ====================== **SLIDE 1** ====================== -->
+
 
 <div align="center">
 
@@ -918,8 +933,6 @@ Prepared by **Alebiosu Oluwadamilare Samuel**
   - `O` vs. `0` — `amaz0n` is fake.
   - `rn` vs. `m` — `arnazon` is fake.
   - `l` vs. `1` — `paypa1` is fake.
-  - `rn` vs. `m` — `arnazon` is fake.
-  - `l` vs. `1` — `paypa1` is fake.
 
     <br><br><br><br><br>
 
@@ -1061,7 +1074,7 @@ Prepared by **Alebiosu Oluwadamilare Samuel**
 
 <div align="center">
 
-## 🛡️ Verify By cyxaviazriel
+## 🛡️ Verify By
 
 - 🔸 Typing the URL yourself instead of clicking.
 - 🔸 Using bookmarks.
@@ -1107,8 +1120,6 @@ Prepared by **Alebiosu Oluwadamilare Samuel**
 
 </div>
 
-</div>
-
 <br><br><br><br><br>
 
 ---
@@ -1119,7 +1130,7 @@ Prepared by **Alebiosu Oluwadamilare Samuel**
 
 <div align="center">
 
-# 📌 Real World Phishing Example
+# 📌 Real-World Phishing Example
 
 > ## Can you spot the warning signs?
 
@@ -1131,38 +1142,35 @@ Prepared by **Alebiosu Oluwadamilare Samuel**
 
 ```text
 ┌─────────────────────────────────────────────────┐
-│ From:    support@amaz0n.com                     │ ← Fake domain
-│ To:      youremail@gmail.com                    │
-│ Subject: Urgent: Account Suspension Notice      │ ← Panic
+│ From: support@amaz0n.com                         │
+│ To: youremail@gmail.com                          │
+│ Subject: Urgent: Account Suspension Notice       │
 ├─────────────────────────────────────────────────┤
 │                                                 │
-│ Dear Valued Customer,                           │ ← Generic greeting
+│ Dear Valued Customer,                           │
 │                                                 │
 │ We have detected suspicious activity on your    │
 │ Amazon account. To prevent permanent closure,   │
 │ you must verify your identity immediately.      │
 │                                                 │
-│ ┌─────────────────────────────────────┐         │
-│ │   👆 Verify Your Account Now         │         │ ← Suspicious link
-│ └─────────────────────────────────────┘         │
+│        ┌─────────────────────────────┐          │
+│        │ 👆 Verify Your Account Now  │          │
+│        └─────────────────────────────┘          │
 │                                                 │
 │ Failure to verify within 24 hours will result   │
-│ in permanent account suspension.                │ ← Threat
+│ in permanent account suspension.                │
 │                                                 │
 │ Amazon Security Team                            │
 └─────────────────────────────────────────────────┘
 
+```
+
+
 <br><br><br><br><br>
 
 ---
 
 <br><br><br><br><br>
-
----
-
-<br><br><br><br><br>
-
-
 
 <!-- ====================== **SLIDE 15** ====================== -->
 
@@ -1170,32 +1178,37 @@ Prepared by **Alebiosu Oluwadamilare Samuel**
 
 # 🛡️ Protect Yourself: Basic Steps
 
-> ## Stop. Think. Do not click.
+> ## **Stop. Think. Do not click.**
 
 </div>
 
 ---
 
-### 1️⃣ Stop, Think, Do Not Click
+## 1️⃣ Stop, Think, Do Not Click
 
 - Pause before clicking anything.
 - Take three seconds to verify.
 
-### 2️⃣ Check the Sender
+---
+
+## 2️⃣ Check the Sender
 
 - Click the sender’s name to see the full address.
 - Look for character substitutions.
 - Verify with known contacts.
 
-### 3️⃣ Hover Over Links
+---
+
+## 3️⃣ Hover Over Links
 
 - Check the actual destination.
 - Look for HTTPS and the correct domain.
 - Avoid shortened URLs.
 
-### 4️⃣ Verify Attachments
+---
+
+## 4️⃣ Verify Attachments
 
 - Scan attachments with antivirus software.
 - Verify unexpected attachments with the sender by phone.
 - Check the file extension.
-
