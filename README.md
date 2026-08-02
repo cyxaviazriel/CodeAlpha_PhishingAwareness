@@ -22,7 +22,7 @@
 
 #### 📅 August 2026
 
-> ### **💡 Think Before You Click • Verify Before You Trust**
+> ### **💡 Think Before You Click ➜ Verify Before You Trust**
 
 </div>
 
