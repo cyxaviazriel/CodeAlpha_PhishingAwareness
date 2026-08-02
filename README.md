@@ -1537,3 +1537,9 @@ This is CEO Fraud (Whaling)
 
 
 </div>
+
+## CodedAlpha_PhisingAwareness-Report
+
+<a href="https://github.com/cyxaviazriel/CodeAlpha_PhishingAwareness-Report" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Report-CodeAlpha%20Phishing%20Awareness%20Report-181717?style=for-the-badge&logo=github&logoColor=white" alt="CodeAlpha Phishing Awareness Report"/>
+</a>
