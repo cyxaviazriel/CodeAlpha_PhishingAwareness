@@ -1295,7 +1295,7 @@ Prepared by **Alebiosu Oluwadamilare Samuel**
 1. Change all passwords immediately.
 2. Contact the real company using its official contact details.
 3. Monitor accounts for suspicious activity.
-4. Enable two-factor authentication (2FA) on all accounts.
+4. Enable two factor authentication (2FA) on all accounts.
 5. Freeze your credit if financial information was stolen.
 6. Report the incident to the appropriate authorities.
 
@@ -1315,8 +1315,8 @@ Prepared by **Alebiosu Oluwadamilare Samuel**
 Scenario 1:
 You receive an email from your bank:
 Dear Customer, we've detected suspicious activity. 
-Please verify your identity by clicking here.'
-Sender: security@mybank.net"
+Please verify your identity by clicking here.
+Sender: security@mybank.net
 
 🔴 Is this phishing? YES
 Why? Generic greeting, urgent language, asks to click link
@@ -1324,11 +1324,65 @@ Why? Generic greeting, urgent language, asks to click link
 ═══════════════════════════════════════
 
 Scenario 2:
-"Your CEO sends an email:
-'URGENT: Need you to wire $50,000 to this new vendor. 
-This is confidential. Reply immediately.'
-Sender: ceo@yourcompany.com"
+Your CEO sends an email:
+URGENT: Need you to wire $50,000 to this new vendor. 
+This is confidential. Reply immediately.
+Sender: ceo@yourcompany.com
 
 🔴 Is this phishing? HIGHLY SUSPICIOUS
 Why? Urgent, money request, confidential ALWAYS verify!
 This is CEO Fraud (Whaling)
+
+
+<br><br><br><br><br>
+
+---
+
+<br><br><br><br><br>
+
+<!-- ====================== **SLIDE 18** ====================== -->
+
+<div align="center">
+
+# 🎯 Quiz: Can You Spot the Phish?
+
+> ## Review each scenario, then identify the warning signs.
+
+</div>
+
+---
+
+## 📧 Scenario 1: Bank Verification Email
+
+> Dear Customer, we have detected suspicious activity.  
+> Please verify your identity by clicking here.
+>
+> **Sender:** security@mybank.net
+
+### 🔴 Verdict: Phishing
+
+**Why?**
+
+- Generic greeting
+- Urgent language
+- Request to click a link
+
+---
+
+## 💼 Scenario 2: CEO Payment Request
+
+> Urgent: I need you to wire $50,000 to this new vendor.  
+> This is confidential. Reply immediately.
+>
+> **Sender:** ceo@yourcompany.com
+
+### 🔴 Verdict: Highly Suspicious
+
+**Why?**
+
+- Urgent request
+- Financial transaction request
+- Confidential wording meant to discourage verification
+- Must be verified through a different communication channel
+
+> ### ⚠️ This is a common form of CEO Fraud (Whaling).
