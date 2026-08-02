@@ -1,38 +1,50 @@
 <div align="center">
 
-# 🎣 Phishing Awareness Training
+# 🎣 PHISHING AWARENESS TRAINING
 
-### 🚨 **Don't Take the Bait!**
+<img src="https://img.shields.io/badge/🚨-DON'T%20TAKE%20THE%20BAIT-red?style=for-the-badge" />
+
+<br>
 
 <img src="https://img.shields.io/badge/Cybersecurity-Training-red?style=for-the-badge&logo=hackaday&logoColor=white" />
 <img src="https://img.shields.io/badge/Phishing-Awareness-blue?style=for-the-badge&logo=protonmail&logoColor=white" />
 <img src="https://img.shields.io/badge/CodeAlpha-Cyber%20Security%20Intern-success?style=for-the-badge&logo=github&logoColor=white" />
 
----
+<br><br>
 
-### 👨‍💻 **Presented by**
+## 👨‍💻 **PRESENTED BY**
+
 # **Alebiosu Oluwadamilare Samuel**
 
 ### 🛡️ CodeAlpha Cyber Security Intern
 
 📅 **August 2026**
 
----
-
-> **Think Before You Click. Verify Before You Trust.**
+> ## **💡 Think Before You Click Verify Before You Trust**
 
 </div>
 
-<div align="center">
-
-
-<!-- ====================== SLIDE 2 ====================== -->
+---
 
 <div align="center">
 
-# 🎣 What is Phishing?
+### ⭐ CODEALPHA CYBER SECURITY INTERNSHIP ⭐
 
-### 🛡️ Understanding the Threat
+</div>
+
+<br><br><br><br><br>
+
+---
+
+<br><br><br><br><br>
+
+<div align="center">
+
+# 🎣 WHAT IS PHISHING?
+
+<img src="https://img.shields.io/badge/🛡️-UNDERSTANDING%20THE%20THREAT-blue?style=for-the-badge" />
+
+<br>
 
 <img src="https://img.shields.io/badge/Cybersecurity-Awareness-red?style=for-the-badge&logo=hackaday&logoColor=white" />
 <img src="https://img.shields.io/badge/Threat-Phishing-orange?style=for-the-badge&logo=protonmail&logoColor=white" />
@@ -42,68 +54,77 @@
 
 ---
 
-## 🛡️ What is Phishing?
+# 🛡️ WHAT IS PHISHING?
 
-> **Phishing** is a cyberattack in which attackers impersonate trusted individuals or organizations to trick victims into revealing sensitive information such as passwords, banking credentials, personal data, and credit card details.
+> **Phishing** is a cyberattack where attackers impersonate trusted individuals or organizations to trick victims into revealing confidential information such as passwords, banking credentials, personal information, and credit card details.
 
 ---
 
-## ⚙️ How Phishing Works
+# ⚙️ HOW PHISHING WORKS
 
 <table>
 <tr>
-<td width="50%">
 
-### 📧 Fake Emails
-Attackers send emails that appear to come from trusted companies, banks, or colleagues.
+<td width="50%" valign="top">
+
+## 📧 Fake Emails
+
+Attackers send emails pretending to be banks, companies, or trusted contacts to steal confidential information.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📱 SMS (Smishing)
+
+Fraudulent text messages encourage victims to click malicious links or disclose sensitive information.
 
 </td>
 
-<td width="50%">
-
-### 📱 SMS (Smishing)
-Victims receive fraudulent text messages containing malicious links or fake requests.
-
-</td>
 </tr>
 
 <tr>
-<td>
 
-### 🌐 Fake Websites
-Counterfeit login pages steal usernames, passwords, and other confidential information.
+<td valign="top">
+
+## 🌐 Fake Websites
+
+Counterfeit login pages imitate legitimate websites to steal usernames and passwords.
+
+</td>
+
+<td valign="top">
+
+## ⚠️ Urgency & Fear
+
+Attackers create panic, curiosity, or excitement to pressure victims into acting without thinking.
 
 </td>
 
-<td>
-
-### ⚠️ Urgency & Fear
-Attackers create panic or excitement to pressure victims into acting quickly.
-
-</td>
 </tr>
+
 </table>
 
 ---
 
-## 🎯 Common Targets
+# 🎯 COMMON TARGETS
 
-| 🎯 Target | 🔍 Information Attackers Want |
-|:---------|:------------------------------|
-| 🏦 Bank Accounts | Banking usernames & passwords |
-| 💼 Company Accounts | Employee login credentials |
-| 🆔 Personal Identity | Personal identification information |
-| 💳 Credit Cards | Card numbers, CVV, PINs, and billing details |
+| 🎯 Target | 🔍 Information Sought |
+|:---------|:----------------------|
+| 🏦 Bank Accounts | Online Banking Credentials |
+| 💼 Company Accounts | Employee Login Credentials |
+| 🆔 Personal Identity | Personal Identification Information |
+| 💳 Credit Cards | Card Numbers, CVV & PIN |
 
 ---
 
 <div align="center">
 
-## 🛡️ Security Tip
+# 🛡️ SECURITY TIP
 
-# **🛑 Stop Think Verify Then Click**
+# 🛑 **STOP  THINK  VERIFY  THEN CLICK**
 
-> **If a message asks for sensitive information or creates urgency, verify its authenticity before responding.**
+> **If an email, message, or website asks for sensitive information or creates urgency, verify its authenticity before responding.**
 
 </div>
 
@@ -111,18 +132,25 @@ Attackers create panic or excitement to pressure victims into acting quickly.
 
 <div align="center">
 
+### ⭐ CODEALPHA CYBER SECURITY INTERNSHIP ⭐
 
-### ⭐ Phishing Awareness Training CodeAlpha Cyber Security Internship ⭐
+**PHISHING AWARENESS TRAINING**
 
 </div>
 
-<!-- ====================== SLIDE 3 ====================== -->
+<br><br><br><br><br>
+
+---
+
+<br><br><br><br><br>
 
 <div align="center">
 
-# 📊 Why Phishing Matters
+# 📊 WHY PHISHING MATTERS
 
-### 🚨 The Statistics Speak for Themselves
+<img src="https://img.shields.io/badge/🚨-THE%20STATISTICS%20SPEAK%20FOR%20THEMSELVES-orange?style=for-the-badge" />
+
+<br>
 
 <img src="https://img.shields.io/badge/Cybersecurity-Statistics-red?style=for-the-badge&logo=hackaday&logoColor=white" />
 <img src="https://img.shields.io/badge/Threat-Phishing-orange?style=for-the-badge&logo=protonmail&logoColor=white" />
@@ -132,7 +160,7 @@ Attackers create panic or excitement to pressure victims into acting quickly.
 
 ---
 
-# 📈 Shocking Statistics
+# 📈 SHOCKING STATISTICS
 
 | 📊 Metric | 📌 Impact |
 |:---------|:----------|
@@ -140,60 +168,71 @@ Attackers create panic or excitement to pressure victims into acting quickly.
 | 📧 **3.4+ Billion** | Phishing emails are sent every day |
 | 👥 **1 in 5 Employees** | Click on phishing links |
 | 💰 **$4.76 Million** | Average cost of a phishing attack |
-| 🌍 **$50+ Billion** | Lost globally to phishing scams each year |
-| 📬 **30%** | Of phishing emails are opened by recipients |
+| 🌍 **$50+ Billion** | Lost annually to phishing scams |
+| 📬 **30%** | Of phishing emails are opened |
 
 ---
 
-## ⚠️ The Reality
+# ⚠️ THE REALITY
 
 <table>
+
 <tr>
+
 <td width="33%" align="center">
 
-### 💸
+# 💸
 
-### One Mistake
+## **ONE MISTAKE**
 
-A single employee clicking a malicious link can result in **millions of dollars in damages**.
+A single employee clicking a malicious link can cost an organization **millions of dollars.**
 
 </td>
 
 <td width="33%" align="center">
 
-### 📈
+# 📈
 
-### Rising Threat
+## **RISING THREAT**
 
-Phishing attacks have increased by **65%**, making them one of today's fastest growing cyber threats.
+Phishing attacks continue to increase, making them one of the fastest-growing cyber threats.
 
 </td>
 
 <td width="33%" align="center">
 
-### 🎯
+# 🎯
 
-### Everyone is a Target
+## **EVERYONE IS A TARGET**
 
-No organization or individual is immune**every employee plays a critical role in cybersecurity.**
+No organization or individual is immune **every employee plays a critical role in cybersecurity.**
 
 </td>
+
 </tr>
+
 </table>
 
-<div align="center">
-
-## 🚨 Key Takeaway
-
-> **Phishing is not just an IT problem it's a business risk that affects everyone.**
-
-### 🛡️ **Awareness + Vigilance = Your Best Defense**
-
-</div>
+---
 
 <div align="center">
 
-### ⭐ CodeAlpha Cyber Security Internship Phishing Awareness Training ⭐
+# 🚨 KEY TAKEAWAY
+
+> ## **Phishing is not just an IT problem it is a business risk that affects everyone.**
+
+# 🛡️ **AWARENESS + VIGILANCE = YOUR BEST DEFENSE**
 
 </div>
 
+---
+
+<div align="center">
+
+### ⭐ CODEALPHA CYBER SECURITY INTERNSHIP ⭐
+
+**PHISHING AWARENESS TRAINING**
+
+Prepared by **Alebiosu Oluwadamilare Samuel**
+
+</div>
