@@ -882,3 +882,88 @@ Pharming is a cyberattack that **redirects users to fraudulent websites** withou
 Prepared by **Alebiosu Oluwadamilare Samuel**
 
 </div>
+
+<br><br><br><br><br>
+
+---
+
+<br><br><br><br><br>
+
+<!-- ====================== **SLIDE 9** ====================== -->
+
+<div align="center">
+
+# 🚩 Red Flags: Suspicious Sender
+
+> ## Always check the **full email address**, not just the display name.
+
+</div>
+
+---
+
+## 🚩 Red Flag #1: Suspicious Sender Address
+
+| ❌ Suspicious / Fake | ✅ Legitimate / Real |
+|:--|:--|
+| `support@amaz0n-security.com` | `support@amazon.com` |
+| `admin@paypa1.com` | `admin@paypal.com` |
+| `customercare@wellsfarg0.com` | `customercare@wellsfargo.com` |
+
+---
+
+## 🔍 Tips
+
+- 🔸 Click the sender name to reveal the full address.
+- 🔸 Look for character substitutions:
+  - `O` vs. `0` — `amaz0n` is fake.
+  - `rn` vs. `m` — `arnazon` is fake.
+  - `l` vs. `1` — `paypa1` is fake.
+  - `rn` vs. `m` — `arnazon` is fake.
+  - `l` vs. `1` — `paypa1` is fake.
+
+    <br><br><br><br><br>
+
+---
+
+<br><br><br><br><br>
+
+<!-- ====================== **SLIDE 10** ====================== -->
+
+<div align="center">
+
+# 🚩 Red Flags: Urgent Language
+
+> ## Attackers create panic so you act without thinking.
+
+</div>
+
+---
+
+## 🚩 Red Flag #2: Urgent or Threatening Language
+
+### ⚠️ Common Phrases
+
+- ❌ Your account will be closed in 24 hours.
+- ❌ Immediate action required.
+- ❌ You've been hacked! Click here to secure your account.
+- ❌ Your payment was declined update your billing information now.
+- ❌ Legal action will be taken against you.
+
+---
+
+### 🧠 Why This Works
+
+- 🔸 Triggers fear and panic.
+- 🔸 Short circuits rational thinking.
+- 🔸 Makes you act before verifying.
+- 🔸 Creates a sense of emergency.
+
+---
+
+<div align="center">
+
+## 🛑 Rule of Thumb
+
+> ### **Legitimate companies do not create panic in their communications.**
+
+</div>
