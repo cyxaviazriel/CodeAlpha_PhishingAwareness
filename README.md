@@ -1386,3 +1386,154 @@ This is CEO Fraud (Whaling)
 - Must be verified through a different communication channel
 
 > ### ⚠️ This is a common form of CEO Fraud (Whaling).
+
+
+<br><br><br><br><br>
+
+---
+
+<br><br><br><br><br>
+
+<!-- ====================== **SLIDE 19** ====================== -->
+
+<div align="center">
+
+# 🎯 Quiz: Can You Spot the Phish? Part 2
+
+> ## Keep looking for warning signs before you act.
+
+</div>
+
+---
+
+## 📱 Scenario 3: Package Tracking Text
+
+> USPS: Your package arrived at the warehouse.  
+> Click here to track it: `tinyurl.com/xyz123
+
+### 🔴 Verdict: Phishing (Smishing)
+
+**Why?**
+
+- Unexpected message
+- Shortened link hides the real destination
+- Pressure to click the link
+
+---
+
+## 💬 Scenario 4: LinkedIn Notification
+
+> Someone mentioned you in a comment. See it here: `bit.ly/abc
+
+### 🔴 Verdict: Phishing
+
+**Why?**
+
+- Unexpected notification
+- Shortened link hides the destination
+- Open LinkedIn directly instead of clicking the link
+
+---
+
+## 📎 Scenario 5: Attachment From Your Boss
+
+> Attached is the Q3 report for review.
+>
+> The email looks normal, includes your name, and has a proper signature.
+
+### ⚠️ Verdict: Could Be Phishing
+
+**Why?**
+
+- Unexpected attachments should always be verified.
+- Call your boss or send them a separate message before opening the file.
+
+
+<br><br><br><br><br>
+
+---
+
+<br><br><br><br><br>
+
+<!-- ====================== **SLIDE 20** ====================== -->
+
+<div align="center">
+
+# 🔑 Key Takeaways
+
+> ## Use these five steps before responding to any suspicious message.
+
+</div>
+
+---
+
+## 🛑 Stop
+
+- Never rush into action.
+- Panic is your enemy.
+
+## 🔍 Think
+
+- Is this expected?
+- Does it make sense?
+
+## ❓ Check
+
+- Verify the sender.
+- Inspect all links.
+
+## 📞 Verify
+
+- Use a different communication channel.
+- Contact the real company through official details.
+
+## 🔒 Report
+
+- Tell your IT or security team.
+- Help protect others.
+
+---
+
+<div align="center">
+
+## 🚀 Bonus Tip
+
+> ### **When in doubt, do not click.**
+
+> It is better to be safe than sorry.
+
+</div>
+
+
+
+<br><br><br><br><br>
+
+---
+
+<br><br><br><br><br>
+
+<!-- ====================== **SLIDE 22** ====================== -->
+
+<div align="center">
+
+# 🙏 Thank You
+
+> ## Security is not a product, but a process.
+
+### Stay safe. Stay vigilant.
+
+---
+
+## 📬 Connect With Me
+
+📧 **Email:** alebiosusoc@gmail.com  
+🔗 **LinkedIn:** www.linkedin.com/in/alebiosu-soc 
+
+---
+
+### CodeAlpha Cyber Security Internship
+
+#### 📅 August 2026
+
+
+</div>
