@@ -967,3 +967,187 @@ Prepared by **Alebiosu Oluwadamilare Samuel**
 > ### **Legitimate companies do not create panic in their communications.**
 
 </div>
+
+<br><br><br><br><br>
+
+---
+
+<br><br><br><br><br>
+
+<!-- ====================== **SLIDE 11** ====================== -->
+
+<div align="center">
+
+# 🚩 Red Flags: Generic Greetings
+
+> ## Legitimate companies usually know who you are.
+
+</div>
+
+---
+
+## 🚩 Red Flag #3: Generic Greetings
+
+| ❌ Phishing Examples | ✅ Real Company Examples |
+|:--|:--|
+| Dear Valued Customer | Dear John Smith |
+| Dear User | Hi Sarah Johnson |
+| Hello Sir/Madam | John, we noticed something… |
+| Dear Account Holder | |
+
+---
+
+### ⚠️ Exceptions
+
+- Some legitimate companies use generic greetings too.
+- However, most personal emails will use your name.
+
+---
+
+<div align="center">
+
+## 💡 Pro Tip
+
+> If it is from a company you do business with, they have your name and should use it.
+
+> ### **No name = High suspicion**
+
+</div>
+
+<br><br><br><br><br>
+
+---
+
+<br><br><br><br><br>
+
+<!-- ====================== **SLIDE 12** ====================== -->
+
+<div align="center">
+
+# 🚩 Red Flags: Suspicious Links
+
+> ## Never trust a link always verify it first.
+
+</div>
+
+---
+
+## 🚩 Red Flag #4: Suspicious Links
+
+### 🔍 How to Check Links
+
+1. 1️⃣ **Hover** your mouse over the link do not click.
+2. 2️⃣ Look at the bottom left corner of your browser.
+3. 3️⃣ Check the **actual URL destination**.
+
+---
+
+### ⚠️ Common Tricks
+
+- ❌ www.google.com.bad.com fake domain
+- ❌ www.gooogle.com typosquatting
+- ❌ bit.ly/xyz123 shortened link that hides its destination
+- ❌ http:// not HTTPS and not secure
+
+---
+
+### 📨 Real Example
+
+| What You See | Actual Destination |
+|:--|:--|
+| www.amazon.com/verify` | www.attacker.com/steal.php |
+
+---
+
+<div align="center">
+
+## 🛡️ Verify By cyxaviazriel
+
+- 🔸 Typing the URL yourself instead of clicking.
+- 🔸 Using bookmarks.
+- 🔸 Going directly to the official website.
+
+  <br><br><br><br><br>
+
+---
+
+<br><br><br><br><br>
+
+<!-- ====================== **SLIDE 13** ====================== -->
+
+<div align="center">
+
+# 🚩 Red Flags: Unexpected Attachments
+
+> ## Do not open attachments you were not expecting.
+
+</div>
+
+---
+
+## 🚩 Red Flag #5: Unexpected Attachments
+
+| ❌ Dangerous File Types | ⚠️ Safer Types Still Need Caution |
+|:--|:--|
+| `.exe` executable; **very dangerous** | `.pdf` can contain links or malicious code |
+| `.scr` screen saver; can be malware | `.docx` can contain macros; disable them |
+| `.zip` compressed file; can hide malware | `.xlsx` can contain macros; disable them |
+| `.js` JavaScript; can run automatically | |
+| `.vbs` VBScript; can run commands | |
+
+---
+
+<div align="center">
+
+## 🛡️ Best Practice
+
+- 🔸 Call the sender to verify before opening an attachment.
+- 🔸 Use antivirus software to scan all attachments.
+- 🔸 **If you did not request it, do not open it.**
+
+</div>
+
+</div>
+
+<br><br><br><br><br>
+
+---
+
+<br><br><br><br><br>
+
+<!-- ====================== **SLIDE 14** ====================== -->
+
+<div align="center">
+
+# 📌 Real World Phishing Example
+
+> ## Can you spot the warning signs?
+
+</div>
+
+---
+
+## 📧 The Email
+
+```text
+┌─────────────────────────────────────────────────┐
+│ From:    support@amaz0n.com                     │ ← Fake domain
+│ To:      youremail@gmail.com                    │
+│ Subject: Urgent: Account Suspension Notice      │ ← Panic
+├─────────────────────────────────────────────────┤
+│                                                 │
+│ Dear Valued Customer,                           │ ← Generic greeting
+│                                                 │
+│ We have detected suspicious activity on your    │
+│ Amazon account. To prevent permanent closure,   │
+│ you must verify your identity immediately.      │
+│                                                 │
+│ ┌─────────────────────────────────────┐         │
+│ │   👆 Verify Your Account Now         │         │ ← Suspicious link
+│ └─────────────────────────────────────┘         │
+│                                                 │
+│ Failure to verify within 24 hours will result   │
+│ in permanent account suspension.                │ ← Threat
+│                                                 │
+│ Amazon Security Team                            │
+└─────────────────────────────────────────────────┘
