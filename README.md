@@ -1212,3 +1212,123 @@ Prepared by **Alebiosu Oluwadamilare Samuel**
 - Scan attachments with antivirus software.
 - Verify unexpected attachments with the sender by phone.
 - Check the file extension.
+
+
+<br><br><br><br><br>
+
+---
+
+<br><br><br><br><br>
+
+<!-- ====================== **SLIDE 16** ====================== -->
+
+<div align="center">
+
+# 🛡️ Protect Yourself: Advanced Steps
+
+> ## Add stronger layers to your cybersecurity defense.
+
+</div>
+
+---
+
+## 5️⃣ Verify Through a Different Channel
+
+- If an email claims to be from your bank, call your bank using its official number.
+- If it claims to be from a colleague, message them through Teams or Slack.
+- Never use contact details supplied in a suspicious email.
+
+---
+
+## 6️⃣ Use Two-Factor Authentication (2FA)
+
+- Even if a password is stolen, 2FA can prevent unauthorized access.
+- Prefer app-based authentication, such as Google Authenticator.
+- Avoid SMS-based 2FA when possible.
+
+---
+
+## 7️⃣ Check for HTTPS
+
+- Legitimate websites should use HTTPS, not HTTP.
+- Look for the padlock icon in the address bar.
+- Verify that the website certificate is valid.
+
+---
+
+## 8️⃣ Keep Software Updated
+
+- Browser updates contain important security fixes.
+- Operating system updates patch vulnerabilities.
+- Antivirus software needs regular updates.
+
+  <br><br><br><br><br>
+
+---
+
+<br><br><br><br><br>
+
+<!-- ====================== **SLIDE 17** ====================== -->
+
+<div align="center">
+
+# 🚨 Response Plan: You Have Been Attacked
+
+> ## Act quickly, stay calm, and report the incident.
+
+</div>
+
+---
+
+## 🔗 If You Clicked a Link
+
+1. Close the browser immediately.
+2. Do not enter any information.
+3. Clear your browser cache and cookies.
+4. Run a full antivirus scan.
+5. Change your passwords.
+
+---
+
+## 🔐 If You Entered Information
+
+1. Change all passwords immediately.
+2. Contact the real company using its official contact details.
+3. Monitor accounts for suspicious activity.
+4. Enable two-factor authentication (2FA) on all accounts.
+5. Freeze your credit if financial information was stolen.
+6. Report the incident to the appropriate authorities.
+
+---
+
+## 🏢 If You Are at Work
+
+1. Report it to the IT or security team immediately.
+2. Do not try to investigate the incident yourself.
+3. Follow your company’s incident-response plan.
+4. Save the suspicious email do not delete it.
+5. Disconnect from the network only if instructed.
+
+
+   🎯 QUIZ: Can You Spot the Phish?
+
+Scenario 1:
+You receive an email from your bank:
+Dear Customer, we've detected suspicious activity. 
+Please verify your identity by clicking here.'
+Sender: security@mybank.net"
+
+🔴 Is this phishing? YES
+Why? Generic greeting, urgent language, asks to click link
+
+═══════════════════════════════════════
+
+Scenario 2:
+"Your CEO sends an email:
+'URGENT: Need you to wire $50,000 to this new vendor. 
+This is confidential. Reply immediately.'
+Sender: ceo@yourcompany.com"
+
+🔴 Is this phishing? HIGHLY SUSPICIOUS
+Why? Urgent, money request, confidential ALWAYS verify!
+This is CEO Fraud (Whaling)
